@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 393ec4c7986f4704cbbf5bef7769deb7
+  productGUID: c478c9d88563af7478490e8480558fe2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 2D_Memory_Game
+  productName: 2D Platformer
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -818,14 +818,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 2D_Memory_Game
+  metroPackageName: 2D Platformer
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 2D_Memory_Game
+  metroApplicationDescription: 2D Platformer
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -893,11 +893,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: fb6ac906-1085-4509-9b53-6c85a9c1a35b
+  cloudProjectId: 4369d47d-41c0-4408-89a5-475eb8554d72
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 2D_Memory_Game
-  organizationId: csusb-4410
+  projectName: 2D Platformer
+  organizationId: jmalton77
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
